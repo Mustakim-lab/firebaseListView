@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirebaseListView</string>
+
+    <array name="Blood_groups">
+        <item>A+</item>
+        <item>A-</item>
+
+        <item>B+</item>
+        <item>B-</item>
+    </array>
+</resources>
